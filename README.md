@@ -12,7 +12,8 @@ File name: dataset.csv
 
 Description: The dataset includes details about songs such as track name, artists, genre, popularity, and various audio features like danceability, energy, loudness, and duration.
 
-Source: Source: [Spotify Dataset (1921–2020) by Maanav Gahlot on Kaggle](https://www.kaggle.com/datasets/maanav/spotify-dataset-19212020-160k-tracks)
+Source: Spotify Songs Dataset (Publicly Available for Educational Use)
+
 
 
 
