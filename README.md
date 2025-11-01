@@ -1,7 +1,9 @@
 ## Spotify Data Analysis Project
 
 This project analyzes a Spotify dataset to gain insights about songs, artists, and genres using Python.
+
 The main goal was to explore patterns in song popularity, energy, danceability, and duration, and visualize them using different graphs.
+
 Through this project, I strengthened my skills in data analysis, cleaning, and visualization.
 
 ## Dataset
@@ -23,9 +25,13 @@ Source:[Spotify Dataset on Kaggle](https://www.kaggle.com/datasets)
 ## Tools & Libraries Used
 
 ✦ Python
+
 ✦ Pandas
+
 ✦ NumPy
+
 ✦ Matplotlib
+
 ✦ Seaborn
 
 ## Visual Outputs
