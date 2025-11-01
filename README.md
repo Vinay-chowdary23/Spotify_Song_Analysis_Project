@@ -12,7 +12,8 @@ File name: dataset.csv
 
 Description: The dataset includes details about songs such as track name, artists, genre, popularity, and various audio features like danceability, energy, loudness, and duration.
 
-Source:[Spotify Dataset on Kaggle](https://www.kaggle.com/datasets)
+Source:Source: [Spotify Dataset](./spotify_dataset.csv)
+
 
 ## Project Objectives
 
