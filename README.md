@@ -41,9 +41,13 @@ You can directly view the key results here:
 ## Key Findings
 
 • Pop and Dance Pop are the most popular genres
+
 • There is a strong positive correlation between danceability and energy
+
 • The average song duration is around 3.5 minutes
+
 • Energy and loudness are positively related
+
 • Artists with higher popularity tend to maintain consistent engagement metrics
 
 ## Author
