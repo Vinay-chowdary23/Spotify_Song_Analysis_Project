@@ -17,9 +17,13 @@ Source:[Spotify Dataset on Kaggle](https://www.kaggle.com/datasets)
 ## Project Objectives
 
 ❖ Load and clean the dataset (handle unnecessary columns)
+
 ❖ Find the most popular songs and artists
+
 ❖ Analyze energy, danceability, and loudness correlation
+
 ❖ Identify top-performing genres based on popularity
+
 ❖ Visualize duration distribution and summarize findings
 
 ## Tools & Libraries Used
